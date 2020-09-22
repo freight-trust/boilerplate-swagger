@@ -1,6 +1,5 @@
 # Boilerplate Swagger API documentation with GitHub Pages
 
-[<img alt="The blog of Peter Evans: How to Host Swagger Documentation With Github Pages" title="View blog post" src="https://peterevans.dev/img/blog-published-badge.svg">](https://peterevans.dev/posts/how-to-host-swagger-docs-with-github-pages/)
 
 ## Overivew
 
@@ -58,4 +57,4 @@ The example API specification used by this repository can be seen hosted at [htt
     
 7. Browse to the Swagger documentation at `https://{github-username}.github.io/{repository-name}/`.
 
-   The example API specification used by this repository can be seen hosted at [https://peter-evans.github.io/swagger-github-pages](https://peter-evans.github.io/swagger-github-pages/).
+
