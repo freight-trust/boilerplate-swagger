@@ -1,5 +1,4 @@
- # .kodiak.toml
-
+# .kodiak.toml
 # Kodiak's configuration file should be placed at `.kodiak.toml` (repository
 # root) or `.github/.kodiak.toml`.
 # docs: https://kodiakhq.com/docs/config-reference
