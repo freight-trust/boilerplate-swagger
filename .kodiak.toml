@@ -5,14 +5,13 @@
 
 # version is the only required setting in a kodiak config.
 # `1` is the only valid setting for this field.
-
 version = 1
 
 [merge]
 # Label to enable Kodiak to merge a PR.
 # By default, Kodiak will only act on PRs that have this label. You can disable
 # this requirement via `merge.require_automerge_label`.
-automerge_label = "automated pr" # default: "automerge"
+automerge_label = ["automated pr"] # default: "automerge"
 method = "merge" 
 delete_branch_on_merge = true
 
